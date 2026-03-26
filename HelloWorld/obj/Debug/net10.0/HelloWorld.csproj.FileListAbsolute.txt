@@ -1,0 +1,14 @@
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\users\ewobrie\documents\sweCourse\HelloWorld\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
